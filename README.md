@@ -1,4 +1,4 @@
-# e-waste-generation-classification
+# E-waste-generation-classification
 E-Waste-Generation-Using-ResNet50
 Classify E-Waste using ResNet50 and TensorFlow
 
